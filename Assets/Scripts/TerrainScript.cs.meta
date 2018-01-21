@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 983c8ce2256ec4879808fc9f5180883a
+timeCreated: 1508585175
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - grassPatchPrefab: {fileID: 1593848709463172, guid: cc4c4281eaca64b8d805b9f8db971a11,
+      type: 2}
+  - bushPrefab: {fileID: 1415997736894182, guid: 26e37a1ae0eb84af5b2da6cc4d6a9697,
+      type: 2}
+  - treePrefab: {fileID: 1489013066803216, guid: 6e4b9c5085bc842a88e4b52f4bf75d65,
+      type: 2}
+  - berryBushPrefab: {fileID: 1344072398203564, guid: d2afd7869083246e9baefc21506f6513,
+      type: 2}
+  - droppedItemPrefab: {fileID: 1595301959930058, guid: 37297f8e62a5f401fb4c12004c91f569,
+      type: 2}
+  - playerInventoryScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

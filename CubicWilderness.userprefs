@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI Scripts/SceneLoader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ControllerScript.cs" Line="269" Column="24" />
+      <File FileName="Assets/Scripts/ScrollBallScript.cs" Line="19" Column="32" />
+      <File FileName="Assets/Scripts/SaveSystemScript.cs" Line="177" Column="32" />
+      <File FileName="Assets/Scripts/Object Behaviours/GroundFoodScript.cs" Line="8" Column="31" />
+      <File FileName="Assets/Scripts/Object Behaviours/GrassScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Object Behaviours/BerryBushScript.cs" Line="13" Column="19" />
+      <File FileName="Assets/Scripts/UI Scripts/PlayerInventoryScript.cs" Line="178" Column="3" />
+      <File FileName="Assets/Scripts/TerrainScript.cs" Line="60" Column="22" />
+      <File FileName="Assets/Scripts/Object Behaviours/BoulderScript.cs" Line="23" Column="5" />
+      <File FileName="Assets/Scripts/Object Behaviours/TreeScript.cs" Line="38" Column="60" />
+      <File FileName="Assets/Scripts/UI Scripts/UIAlignmentScript.cs" Line="11" Column="3" />
+      <File FileName="Assets/Scripts/UI Scripts/SceneLoader.cs" Line="19" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
